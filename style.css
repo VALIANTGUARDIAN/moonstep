@@ -6,9 +6,10 @@ body {
 .m_logo {
     position: absolute;
     padding: 5px;
-    width: 130px;
+    width: 135px;
     height: 75px;
-    left: 50px;
+    left: 55px;
+    margin-top: 5px;
 
 }
 
@@ -20,6 +21,7 @@ li {
     float: left;
     list-style: none;
     padding: 10px;
+    margin-top: 10px;
 }
 
 ul li a {
@@ -41,6 +43,8 @@ ul li a {
 .jod {
     background: #1EB808;
     border-radius: 5px;
+    margin-top: 10px;
+    margin-right: -22px;
 }
 
 .section1 {
