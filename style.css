@@ -9,16 +9,9 @@ body {
     width: 130px;
     height: 75px;
     left: 50px;
-    /* 
-    margin: 1rem; */
+
 }
 
-
-/* ul {
-    overflow: hidden;
-    margin: 2rem;
-    padding: 2rem;
-} */
 
 li {
 
@@ -544,6 +537,7 @@ ul li a {
     background: url(assests/hexaagon.svg);
     opacity: 0.3;
 }
+
 .hexagon2 {
     position: absolute;
     top: 3400px;
@@ -553,6 +547,7 @@ ul li a {
     background: url(assests/hexaagon.svg);
     opacity: 0.3;
 }
+
 .hexagon3 {
     position: absolute;
     top: 3700px;
@@ -562,6 +557,7 @@ ul li a {
     background: url(assests/hexaagon.svg);
     opacity: 0.1;
 }
+
 .hexagon4 {
     position: absolute;
     top: 4100px;
@@ -571,6 +567,7 @@ ul li a {
     background: url(assests/hexaagon.svg);
     opacity: 0.3;
 }
+
 /* yaha roadmap ke nike k shapes lagane baki hai */
 
 .section5 {
@@ -747,6 +744,7 @@ ul li a {
     top: 5250px;
     background: #FFFFFF;
 }
+
 /*  */
 .hexagon5 {
     position: absolute;
@@ -757,6 +755,7 @@ ul li a {
     background: url(assests/hexaagon.svg);
     opacity: 0.3;
 }
+
 .hexagon6 {
     position: absolute;
     top: 5330px;
@@ -784,6 +783,7 @@ ul li a {
     background: url(assests/hexaagon.svg);
     opacity: 0.1;
 }
+
 .hexagon8 {
     position: absolute;
     top: 5900px;
@@ -793,6 +793,7 @@ ul li a {
     background: url(assests/hexaagon.svg);
     opacity: 0.3;
 }
+
 .team {
     position: absolute;
     width: 700px;
