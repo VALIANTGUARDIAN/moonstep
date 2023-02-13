@@ -403,6 +403,7 @@ ul li a {
             #0e3e84, #082e6c, #03326d, #00366d, #00396d, #004f7f, #006277, #007155, #097c22);
 }
 
+
 .roadmap {
     position: absolute;
     width: 700px;
@@ -534,9 +535,42 @@ ul li a {
 }
 
 /* yaha roadmap ke nike k shapes lagane baki hai */
-
-
-
+.hexagon1 {
+    position: absolute;
+    top: 2950px;
+    height: 200px;
+    width: 200px;
+    left: 120px;
+    background: url(assests/hexaagon.svg);
+    opacity: 0.3;
+}
+.hexagon2 {
+    position: absolute;
+    top: 3400px;
+    height: 400px;
+    width: 400px;
+    left: -85px;
+    background: url(assests/hexaagon.svg);
+    opacity: 0.3;
+}
+.hexagon3 {
+    position: absolute;
+    top: 3700px;
+    height: 300px;
+    width: 300px;
+    right: -150px;
+    background: url(assests/hexaagon.svg);
+    opacity: 0.3;
+}
+.hexagon4 {
+    position: absolute;
+    top: 4100px;
+    height: 190px;
+    width: 190px;
+    left: 60px;
+    background: url(assests/hexaagon.svg);
+    opacity: 0.3;
+}
 /* yaha roadmap ke nike k shapes lagane baki hai */
 
 .section5 {
